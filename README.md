@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, I'm Usama Virk
 
 ### Senior Full-Stack Developer | Laravel • Vue.js • Node.js
@@ -9,8 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-usamavirk9993.github.io-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://usamavirk9993.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--usarnavirk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-usarnavirk)
 [![Email](https://img.shields.io/badge/Email-usamavirk993@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamavirk993@gmail.com)
-
-</div>
 
 ---
 
@@ -131,30 +127,24 @@ Packaging solutions platform with dynamic product customization.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 ![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamavirk9993&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamavirk9993&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usamavirk9993&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
-</div>
-
 ---
 
 ## 💡 What I Bring to the Table
 
-```diff
-+ 6 years of enterprise-level development experience
-+ Proven track record with international clients (North America, Europe, Middle East)
-+ Expert in building scalable APIs handling 10K+ concurrent users
-+ Strong DevOps background with CI/CD pipeline implementation
-+ Experience with payment integrations processing $500K+ monthly
-+ Remote collaboration expert using Slack, Jira, GitHub with distributed teams
-+ Database optimization specialist (40% performance improvements achieved)
-+ Leadership experience (led DevOps teams, mentored junior developers)
-```
+- ✅ 6 years of enterprise-level development experience
+- ✅ Proven track record with international clients (North America, Europe, Middle East)
+- ✅ Expert in building scalable APIs handling 10K+ concurrent users
+- ✅ Strong DevOps background with CI/CD pipeline implementation
+- ✅ Experience with payment integrations processing $500K+ monthly
+- ✅ Remote collaboration expert using Slack, Jira, GitHub with distributed teams
+- ✅ Database optimization specialist (40% performance improvements achieved)
+- ✅ Leadership experience (led DevOps teams, mentored junior developers)
 
 ---
 
@@ -209,18 +199,12 @@ I'm actively seeking remote positions with international teams where I can:
 
 ## 📫 Let's Connect!
 
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-usamavirk9993.github.io-00D9FF?style=for-the-badge)](https://usamavirk9993.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dev-usarnavirk)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail)](mailto:usamavirk993@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/usamavirk9993)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 💼 Available for Remote Full-Stack Developer Positions
 
@@ -228,12 +212,6 @@ I'm actively seeking remote positions with international teams where I can:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=usamavirk9993&color=00D9FF&style=for-the-badge)
 
-</div>
-
 ---
 
-<div align="center">
-
 *"Building scalable solutions that serve 100K+ users daily"*
-
-</div>
